@@ -14,6 +14,6 @@ Course Explorer! is an application designed to help developers and students tack
 ### Installation ( Windows users only )
 
 - Download by clicking the file listed above `Course Explorer!.exe` OR you can download it from the link below
-- **Course Explorer!.exe**: [Download Link](https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course%20Explorer!.exe)
+- **Course Explorer!.exe**: [Download Link](https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course%20Explorer.exe)
 
 ## Note: sometime when you try to download the file you need to click `Keep` in order to download it to your device
