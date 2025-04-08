@@ -8,9 +8,12 @@ Course Explorer! is an application designed to help developers and students tack
 - **View Challenges and Labs**: After selecting a topic, users can view the challenge or lab files to their local directory once they are published by the admin.
 
 ## Getting Started
+
 - Internet connection to fetch challenge and lab content
 
 ### Installation ( Windows users only )
+
 - Download by clicking the file listed above `Course Explorer!.exe` OR you can download it from the link below
-- **Course Explorer!.exe**: [Download Link](https://raw.githubusercontent.com/omarXzain/course-explorer/main/Course%20Explorer!.exe)
+- **Course Explorer!.exe**: [Download Link](https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course%20Explorer!.exe)
+
 ## Note: sometime when you try to download the file you need to click `Keep` in order to download it to your device
