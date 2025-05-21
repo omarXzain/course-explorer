@@ -6,7 +6,7 @@ Course Explorer! is an application designed to help developers and students addr
 
 ### For Educators
 
-- Create and manage course materials including challenges and labs
+- Create and manage course materials, including challenges and labs
 - Assign students to teaching assistants for personalized guidance
 - Generate comprehensive reports on student performance
 - Track submission status and grades across all assignments
@@ -36,11 +36,8 @@ Course Explorer! is an application designed to help developers and students addr
 
 ### Requirements
 
-- An internet connection to fetch challenge and lab content
+- An internet connection to fetch the challenge and lab content
 
-### Installation (Windows and Android Users Only)
-
-#### Platforms
 
 ### Installation (Windows and Android Users Only)
 
@@ -68,9 +65,5 @@ Course Explorer! is an application designed to help developers and students addr
 
 </div>
 
-1. Download by clicking the file listed above `Course-Explorer.zip` OR you can download it from the link below:
-   - **Course-Explorer.zip:** [Download Link](https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course-Explorer.zip)
-
-- **APK Version:** [Download Link](https://app.box.com/s/bjwblthnizjybau47qqwhyqgj760y0dg)
 
 **Note:** Sometimes, when you try to download the file, you may need to click **Keep** in order to save it to your device.
