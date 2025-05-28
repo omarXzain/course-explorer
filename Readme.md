@@ -38,8 +38,7 @@ Course Explorer! is an application designed to help developers and students addr
 
 - An internet connection to fetch the challenge and lab content
 
-
-### Installation (Windows and Android Users Only)
+### Installation (Windows and Android Users Only v1.0.3)
 
 <div style="display: flex; align-items: center; gap: 40px;">
 
@@ -54,16 +53,15 @@ Course Explorer! is an application designed to help developers and students addr
   </div>
 
   <div style="text-align: center;">
-    <a href="https://app.box.com/s/bjwblthnizjybau47qqwhyqgj760y0dg" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <a href="https://app.box.com/s/qdy1mux9m5vuq5p4w2nq6hbjxcvo4mui" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="80" style="vertical-align: middle;">
     </a>
     <br />
-    <a href="https://app.box.com/s/bjwblthnizjybau47qqwhyqgj760y0dg" target="_blank" rel="noopener noreferrer" style="font-size: 1.1em; font-weight: bold; text-decoration: none; color: #3DDC84;">
+    <a href="https://app.box.com/s/qdy1mux9m5vuq5p4w2nq6hbjxcvo4mui" target="_blank" rel="noopener noreferrer" style="font-size: 1.1em; font-weight: bold; text-decoration: none; color: #3DDC84;">
       Download APK
     </a>
   </div>
 
 </div>
-
 
 **Note:** Sometimes, when you try to download the file, you may need to click **Keep** in order to save it to your device.
