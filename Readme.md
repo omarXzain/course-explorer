@@ -36,11 +36,11 @@ Course Explorer! is an application designed to help developers and students addr
 
 ### Requirements
 
-- An internet connection to fetch the challenge and lab content
+- An internet connection to fetch the content
 
-### Installation (Windows and Android Users Only v1.0.3)
+### Installation:
 
-<div style="display: flex; align-items: center; gap: 40px;">
+<div style="display: flex; wrap:flex-wrap  align-items: center; gap: 40px;">
 
   <div style="text-align: center;">
     <a href="https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course-Explorer.zip" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
