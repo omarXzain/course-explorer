@@ -40,7 +40,7 @@ Course Explorer! is an application designed to help developers and students addr
 
 ### Installation:
 
-<div style="display: flex; wrap:flex-wrap  align-items: center; gap: 40px;">
+<div style="display: flex; wrap:flex-wrap;  align-items: center; gap: 40px;">
 
   <div style="text-align: center;">
     <a href="https://github.com/omarXzain/course-explorer/raw/refs/heads/main/Course-Explorer.zip" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
@@ -64,7 +64,7 @@ Course Explorer! is an application designed to help developers and students addr
   </div>
 
   <div style="text-align: center;">
-    <a href="https://app.box.com/s/qdy1mux9m5vuq5p4w2nq6hbjxcvo4mui" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <a href="https://course-explorer.oxz-os.space/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
       <img src="https://www.svgrepo.com/download/259645/web-search.svg" alt="Android Logo" width="99" style="vertical-align: middle;">
     </a>
     <br />
