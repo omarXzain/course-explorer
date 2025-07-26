@@ -64,11 +64,11 @@ Course Explorer! is an application designed to help developers and students addr
   </div>
 
   <div style="text-align: center;">
-    <a href="https://course-explorer.oxz-os.space/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <a href="https://course-explorer.oxz-os.site/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
       <img src="https://www.svgrepo.com/download/259645/web-search.svg" alt="Android Logo" width="99" style="vertical-align: middle;">
     </a>
     <br />
-    <a href="https://course-explorer.oxz-os.space/" target="_blank" rel="noopener noreferrer" style="font-size: 1.1em; font-weight: bold; text-decoration: none; color: #3DDC84;">
+    <a href="https://course-explorer.oxz-os.site/" target="_blank" rel="noopener noreferrer" style="font-size: 1.1em; font-weight: bold; text-decoration: none; color: #3DDC84;">
     🌐 Web Version
     </a>
     
